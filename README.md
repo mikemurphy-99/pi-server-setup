@@ -38,4 +38,4 @@ All data is stored under a top-level `~/Data` directory for easy access and back
 Run the script with a single command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/YOUR_USERNAME/pi-server-setup/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/mikemurphy-99/pi-server-setup/main/setup.sh)
